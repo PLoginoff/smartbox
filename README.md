@@ -83,8 +83,7 @@ All configurations of the library are located in the object SB.platform
             }
 
 # Autotests
-
 <a href="http://immosmart.github.io/smartbox/">Jasmine autotest start</a>
 
-[![Code Climate](https://codeclimate.com/github/immosmart/smartbox.png)](https://codeclimate.com/github/immosmart/smartbox)
+
 
